@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EVA_1_PRACTICA_1</string>
+    <string name="americano_btn">Americano, </string>
+    <string name="capuccino_btn">Capuccino, </string>
+    <string name="expresso_btn">Expresso, </string>
+    <string name="azucar_chk">Azúcar, </string>
+    <string name="crema_chk">Crema, </string>
+
+</resources>
